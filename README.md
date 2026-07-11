@@ -4,7 +4,7 @@
 ## 📌 Project Overview
 This project focuses on product analytics for a SaaS platform, specifically analyzing the user onboarding journey, activation, and monetization. The interactive dashboard tracks key performance indicators (KPIs), monitors registration trends over time, and visualizes the conversion funnel to identify critical bottlenecks where users drop off.
 
-**👉 [View the Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/iryna.podolska3213/viz/ProductAnalyticsSaaSActivationConversionFunnel/RegisteredUsers#2](https://public.tableau.com/views/ProductAnalyticsSaaSActivationConversionFunnel/Conversionvisualisation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+**👉 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/ProductAnalyticsSaaSActivationConversionFunnel/Conversionvisualisation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
